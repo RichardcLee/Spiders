@@ -15,8 +15,11 @@ created in <time>September 16, 2018 at 11</time>. I will keep updating.
 
 <ol>
   <strong>No Scrapy:</strong>
-  <li><strong>weibo爬爬.py</strong>: crawl [微博PC版](https://wwww.weibo.com) all of the weibo and comments</li>
+  <ol>
+    <strong>微博</strong>
+    <li><strong>weibo爬虫（电脑端）.py</strong>: crawl [微博PC版](https://wwww.weibo.com) all of one's weibo and comments</li>
+    <li><strong>weibo爬虫（手机版网页）.py</strong> crawl [微博手机版](http://m.weibo.com) 提供uid可以爬取任何用户的所有微博以及微博下面的所有评论，并分析评论用户男女比例</li>
+  </ol>
   <li><strong>猫眼电影排行.py</strong>: familiar with douban, but not use scrapy</li>
-  <li><strong>知乎爬爬.py</strong>: crawl [知乎-今日热点](https://www.zhihu.com/explore)</li>
-  <li><strong>微博爬爬2.0</strong> crawl [微博手机版](http://m.weibo.com) 提供uid可以爬取任何用户的所有微博以及微博下面的所有评论，并分析评论用户男女比例</li>
+  <li><strong>知乎推荐.py</strong>: crawl [知乎-今日热点](https://www.zhihu.com/explore)</li>
 </ol>
