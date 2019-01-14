@@ -24,5 +24,5 @@ created in <time>September 16, 2018 at 11</time>. I will keep updating.
   </li>
   <li><strong>猫眼电影排行.py</strong>: familiar with douban, but not use scrapy</li>
   <li><strong>知乎推荐.py</strong>: crawl [知乎-今日热点](https://www.zhihu.com/explore)</li>
-  <li><strong>天气预报</strong>: crawl [中国天气网](http://www.weather.com.cn/) 可查询各省各市各区的天气 其中：prepareForWeatherPredict.py采集必要数据，天气预报.py用于查询天气，P_C_A.json是查询所必需的信息</li>
+  <li><strong>天气预报</strong>: crawl [中国天气网](http://www.weather.com.cn/) 可查询各省各市各区的天气 其中：prepareForWeatherPredict.py采集必要数据，天气预报.py用于查询天气，P_C_A.json是查询所必需的信息树</li>
 </ol>
