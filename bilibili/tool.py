@@ -33,3 +33,22 @@ def sub(s):
     s = re.sub(patn_8, "", s)
     s = re.sub(patn_9, "", s)
     return s
+
+
+def get_headers(self, headers_str: str):
+    '''
+    方便请求头从字符串转换到字典
+    :param headers_str: 请求头字符串
+    :return: headers  请求头字典
+    '''
+    if headers_str is None:
+        return None
+
+    headers_str_list = headers_str.split('\n')
+    headers = {}
+    for header_str in headers_str_list:
+        name, value = header_str.split(": ")
+        # print(name, value)
+        headers[name] = value
+    # print(headers)
+    return headers
