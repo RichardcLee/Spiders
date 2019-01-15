@@ -25,4 +25,5 @@ created in <time>September 16, 2018 at 11</time>. I will keep updating.
   <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/%E7%8C%AB%E7%9C%BC'>猫眼电影排行.py</a></strong>: familiar with douban, but not use scrapy</li>
   <li><strong>知乎推荐.py</strong>: crawl [知乎-今日热点](https://www.zhihu.com/explore)</li>
   <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5'>天气预报</a></strong>: crawl [中国天气网](http://www.weather.com.cn/) 可查询各省各市各区的天气 其中：prepareForWeatherPredict.py采集必要数据，天气预报.py用于查询天气，P_C_A.json是查询所必需的信息树</li>
+  <li><strong><a href='http://www.bilibili.com'>bilibili</a></strong>: crawl [哔哩哔哩弹幕网]，某个up主投稿的视频。(存在个别视频爬取失败的情况)</li>
 </ol>
