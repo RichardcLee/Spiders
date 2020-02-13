@@ -7,10 +7,10 @@ created in <time>September 16, 2018 at 11</time>. I will keep updating.
   <strong>Scrapy:</strong>
   <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/coolscrapy'>coolscrapy</a></strong>: crawl [虎嗅网](http://www.huxiu.com)</li>
   <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/douban'>douban</a></strong>: crawl [豆瓣](http://www.douban.com) 电影排行榜</li>
-  <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/pexels'>pexels</a></strong>: crawl [pexels](http://www.pexels.com) Batch download pictures</li>
+  <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/pexels'>pexels</a></strong>: crawl [pexels](http://www.pexels.com) 批量下载指定类型的图片</li>
   <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/qidain'>qidain</a></strong>: crawl [起点中文网](http://www.qidian.com) free book and free chapter</li>
-  <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/sf'>sf</a></strong>: crawl [思否](http://www.segmentfault.com) all article and question of entire site</li>
-  <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/%E7%88%86%E7%B1%B3%E8%8A%B1%E8%A7%86%E9%A2%91'>baomihua</a></strong>: crawl [爆米花](https://www.baomihua.com/) some videos from all kinds of channel this website provides, you can choose channel and number of page by yourself.</li>
+  <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/sf'>sf</a></strong>: crawl [思否](http://www.segmentfault.com) 全站所有文章和问答</li>
+  <li><strong><a href='https://github.com/RichardcLee/Spiders/tree/master/%E7%88%86%E7%B1%B3%E8%8A%B1%E8%A7%86%E9%A2%91'>baomihua</a></strong>: crawl [爆米花](https://www.baomihua.com/) 全站任意种类视频，可以自己指定频道</li>
 </ol>
 
 <ol>
@@ -18,7 +18,7 @@ created in <time>September 16, 2018 at 11</time>. I will keep updating.
   <li>
       <ol>
         <strong><a href='https://github.com/RichardcLee/Spiders/tree/master/%E5%BE%AE%E5%8D%9A'>微博</a></strong>
-        <li><strong>weibo爬虫（电脑端）.py</strong>: crawl [微博PC版](https://wwww.weibo.com) all of one's weibo and comments</li>
+        <li><strong>weibo爬虫（电脑端）.py</strong>: crawl [微博PC版](https://wwww.weibo.com) 指定人的所有微博及其微博下的评论</li>
         <li><strong>weibo爬虫（手机版网页）.py</strong> crawl [微博手机版](http://m.weibo.com) 提供uid可以爬取任何用户的所有微博以及微博下面的所有评论，并分析评论用户男女比例</li>
       </ol>
   </li>
